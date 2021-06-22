@@ -34,7 +34,7 @@ function About() {
 						href="https://mysterious-beyond-07295.herokuapp.com/user/login"
 						target="_blank"
 					>
-						single-page MERN app
+						
 					</a>{' '}
                     an auto tracking system , where users can register their vehicle , view the list of their vehicle and drivers , also can do sign in and sign out
 				</p>
