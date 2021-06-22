@@ -47,8 +47,6 @@ function Resume() {
 					<li>MySQL</li>
 					<li>Sequelize</li>
 					<li>NoSQL</li>
-					<li>SQLite</li>
-					<li>GraphQL</li>
 					<li>MongoDB</li>
 					<li>Mongoose</li>
 				</ol>
