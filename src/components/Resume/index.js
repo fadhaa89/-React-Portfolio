@@ -1,4 +1,4 @@
-
+import React from "react";
 
 function Resume() {
 	return (
@@ -56,4 +56,4 @@ function Resume() {
 		</section>
 	);
 }
-
+export default Resume;
